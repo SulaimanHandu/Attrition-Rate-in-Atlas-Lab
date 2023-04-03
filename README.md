@@ -5,5 +5,5 @@
 > The following have been accessed to understand the employees data :
 > * General overview of the company
 > * Demographic information of the employees
-> * Performance and satisfaction level of each employees
+> * Performance and satisfaction level of each employee
 > * Attrition Rate 
